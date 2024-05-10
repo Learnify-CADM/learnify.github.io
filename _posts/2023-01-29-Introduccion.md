@@ -78,7 +78,7 @@ Primero que nada la paciencia es fundamental que va de la mano con la disciplina
 
 > Aquí es donde abriré la discusión mas grande de todos que se dedican a la ciberseguridad 
 
-
+![](/assets/img/commons/kaliparrot/kalivsparrot.png)
 
 La distribución a elegir será de acuerdo a tus gustos, te recomiendo probar los dos en VM y el que mas te agrade lo puedes usar como tu dia a dia, lo que si es que no ocuparas al 100% las herramientas que te proporcionan eso ten por seguro , puedes tirar incluso de un ubuntu e instalar las herramientas que se necesitan para el hacking pero para no revolverte con tantas instalaciones y dependecnias si eres nuevo te recomiendo elegir cualquiera de los dos ya que son distribuciones basadas en *debian*
 
