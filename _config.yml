@@ -11,6 +11,10 @@ lang: es-ES
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 timezone: America/Mexico_City
 
+plugins: [jekyll-youtube]
+ # This will require each of these gems automatically.
+ # e.g. {% youtube "https://youtu.be/y4Z7HqT2fks?si=fREPpq7e1Vm3jw4u" %}
+
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
