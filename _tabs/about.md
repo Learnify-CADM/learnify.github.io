@@ -3,6 +3,12 @@
 icon: fas fa-info-circle
 order: 4
 ---
+                            Cervantes Bocanegra Diane Areli
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+                             Hernández Ramírez María José
+                            
+                              Rivera Sánchez José Carlos
+
+                              Santana Merlo Bryan Daniel
+
+![](/assets/img/commons/about/ICON-UPIICSA.png)
